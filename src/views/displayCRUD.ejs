@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display CRUD</title>
+    <style>
+        table, th, td {
+            border:1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <table style="width:100%">
+        <tr>
+          <th>Email</th>
+          <th>Fistname</th>
+          <th>Lastname</th>
+          <th>Adress</th>
+        </tr>
+
+        <% for(let i=0; i < dataTable.length; i++) { %>
+            <tr>
+              <td><%= dataTable[i].email %></td>
+              <td><%= dataTable[i].ho %></td>
+              <td><%= dataTable[i].ten %></td>
+              <td><%= dataTable[i].diaChi %></td>
+            </tr>
+        <% } %>
+      </table>
+</body>
+</html>
