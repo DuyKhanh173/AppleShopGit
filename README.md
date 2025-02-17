@@ -74,21 +74,34 @@ Quản lý:
 Giao diện chính
 
 Trang chủ 
-
 ![image](https://github.com/user-attachments/assets/31c14c57-9c2d-423e-b5ad-42d5f91102a6)
+
 Trang liên hệ 
 ![image](https://github.com/user-attachments/assets/7711b815-87d0-4bbb-85b6-ae7871db1d6a)
+
+
 Trang sản phẩm iphone
 ![image](https://github.com/user-attachments/assets/98b4ba12-4abc-46b2-9f6a-042b8d68c53c)
+
+
 Trang MacBook & iMac
 ![image](https://github.com/user-attachments/assets/35962bdc-237b-4835-8bfd-52bbba5b0542)
+
 Trang Apple Watch
 ![image](https://github.com/user-attachments/assets/e5ff19c8-f9fd-40d0-a5d6-d6040b9ebfc5)
+
+
 Trang iPad 
 ![image](https://github.com/user-attachments/assets/a0363746-7a6e-46c4-9d23-c06f9d2981df)
+
+
 Giỏ hàng 
 ![image](https://github.com/user-attachments/assets/053013b6-90c0-43a7-851e-d7f27edf0cee)
+
+
 Quản lý đơn hàng 
 ![image](https://github.com/user-attachments/assets/4c2ea81d-4ff4-446a-bd0d-3653053e15da)
+
+
 Doanh số bán hàng 
 ![image](https://github.com/user-attachments/assets/533afec4-371a-4188-957a-2dabb8bc629c)
